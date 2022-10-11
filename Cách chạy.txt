@@ -1,0 +1,3 @@
+git clone https://github.com/JaikeyTricker/jaikeytool/
+cd jaikeytool
+python jaikey.py
