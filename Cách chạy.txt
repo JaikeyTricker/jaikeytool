@@ -1,3 +1,7 @@
 git clone https://github.com/JaikeyTricker/jaikeytool/
 cd jaikeytool
 python jaikey.py
+
+tool tạo bởi JaikeyTricker
+
+Nếu bán nhớ ghi nguồn
